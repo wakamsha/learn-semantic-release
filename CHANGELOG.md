@@ -1,3 +1,10 @@
+## [1.3.0](https://github.com/wakamsha/learn-semantic-release/compare/v1.2.0...v1.3.0) (2024-09-21)
+
+### Features
+
+* Update tsconfig ([#4](https://github.com/wakamsha/learn-semantic-release/issues/4)) ([98b6793](https://github.com/wakamsha/learn-semantic-release/commit/98b6793c5301c097d22cbaf62fff2dcf05e4feab))
+* Update tsconfig ([#5](https://github.com/wakamsha/learn-semantic-release/issues/5)) ([bfe4974](https://github.com/wakamsha/learn-semantic-release/commit/bfe4974259c79ad3ac575ea69d136f6a1fa52287))
+
 ## [1.2.0](https://github.com/wakamsha/learn-semantic-release/compare/v1.1.0...v1.2.0) (2024-08-30)
 
 ### Features
