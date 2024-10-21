@@ -1,0 +1,25 @@
+{
+  "name": "learn-semantic-release",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Learn how to use semantic-release.",
+  "engines": {
+    "node": ">= 20.18.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wakamsha/learn-semantic-release.git"
+  },
+  "keywords": [
+    "semantic-release"
+  ],
+  "author": "wakamsha <wakamsha@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wakamsha/learn-semantic-release/issues"
+  },
+  "homepage": "https://github.com/wakamsha/learn-semantic-release#readme"
+}
