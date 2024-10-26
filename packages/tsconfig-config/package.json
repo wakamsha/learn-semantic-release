@@ -15,7 +15,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wakamsha/learn-semantic-release.git"
+    "url": "git+https://github.com/wakamsha/learn-semantic-release.git",
+    "directory": "packages/tsconfig-config"
   },
   "keywords": [
     "typescript"
