@@ -1,0 +1,9 @@
+{
+  "name": "@learn-semantic-release/release-config",
+  "version": "0.0.0",
+  "private": true,
+  "description": "shared release config for learn-semantic-release packages",
+  "type": "module",
+  "main": "index.js",
+  "license": "UNLICENSED"
+}

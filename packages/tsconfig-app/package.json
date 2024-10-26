@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/wakamsha/learn-semantic-release/tree/main/packages/tsconfig-app#readme",
   "devDependencies": {
+    "@learn-semantic-release/release-config": "workspace:*",
     "typescript": "^5.6.3"
   },
   "peerDependencies": {
