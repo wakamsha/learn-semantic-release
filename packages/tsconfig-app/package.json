@@ -28,7 +28,6 @@
   },
   "homepage": "https://github.com/wakamsha/learn-semantic-release/tree/main/packages/tsconfig-app#readme",
   "devDependencies": {
-    "@learn-semantic-release/release-config": "workspace:*",
     "@semantic-release/changelog": "6.0.3",
     "@semantic-release/git": "10.0.1",
     "conventional-changelog-conventionalcommits": "8.0.0",
