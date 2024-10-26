@@ -1,3 +1,9 @@
+## [@learn-semantic-release/tsconfig-config-v1.1.1](https://github.com/wakamsha/learn-semantic-release/compare/@learn-semantic-release/tsconfig-config-v1.1.0...@learn-semantic-release/tsconfig-config-v1.1.1) (2024-10-26)
+
+### Bug Fixes
+
+* Specify directory field ([#9](https://github.com/wakamsha/learn-semantic-release/issues/9)) ([448beee](https://github.com/wakamsha/learn-semantic-release/commit/448beee0383f078e60e7d6e05af227511b61040d))
+
 ## [@learn-semantic-release/tsconfig-config-v1.1.0](https://github.com/wakamsha/learn-semantic-release/compare/@learn-semantic-release/tsconfig-config-v1.0.0...@learn-semantic-release/tsconfig-config-v1.1.0) (2024-10-26)
 
 ### Features
