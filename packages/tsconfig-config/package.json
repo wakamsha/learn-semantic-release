@@ -1,0 +1,35 @@
+{
+  "name": "@learn-semantic-release/tsconfig-config",
+  "version": "0.0.1",
+  "private": true,
+  "description": "my awesome tsconfig for my config",
+  "type": "module",
+  "engines": {
+    "node": ">= 20.18.0"
+  },
+  "files": [
+    "tsconfig.config.json"
+  ],
+  "scripts": {
+    "release": "npx semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wakamsha/learn-semantic-release.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "wakamsha <wakamsha@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wakamsha/learn-semantic-release/issues"
+  },
+  "homepage": "https://github.com/wakamsha/learn-semantic-release/tree/main/packages/tsconfig-config#readme",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
