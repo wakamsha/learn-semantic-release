@@ -1,6 +1,6 @@
 {
   "name": "@learn-semantic-release/tsconfig-app",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "private": true,
   "description": "my awesome tsconfig for my app",
   "type": "module",
