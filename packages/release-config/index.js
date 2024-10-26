@@ -1,7 +1,7 @@
 /**
  * @type {import('semantic-release').GlobalConfig}
  */
-export default {
+export const config = {
   extends: 'semantic-release-monorepo',
   plugins: [
     [

@@ -6,10 +6,8 @@ settings:
 
 importers:
 
-  .: {}
-
-  packages/release-config:
-    dependencies:
+  .:
+    devDependencies:
       '@semantic-release/changelog':
         specifier: 6.0.3
         version: 6.0.3(semantic-release@24.2.0(typescript@5.6.3))
@@ -25,6 +23,8 @@ importers:
       semantic-release-monorepo:
         specifier: 8.0.2
         version: 8.0.2(semantic-release@24.2.0(typescript@5.6.3))
+
+  packages/release-config: {}
 
   packages/tsconfig-app:
     devDependencies:

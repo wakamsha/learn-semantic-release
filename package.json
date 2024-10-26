@@ -17,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/wakamsha/learn-semantic-release/issues"
   },
-  "homepage": "https://github.com/wakamsha/learn-semantic-release#readme"
+  "homepage": "https://github.com/wakamsha/learn-semantic-release#readme",
+  "devDependencies": {
+    "@semantic-release/changelog": "6.0.3",
+    "@semantic-release/git": "10.0.1",
+    "conventional-changelog-conventionalcommits": "8.0.0",
+    "semantic-release": "24.2.0",
+    "semantic-release-monorepo": "8.0.2"
+  }
 }

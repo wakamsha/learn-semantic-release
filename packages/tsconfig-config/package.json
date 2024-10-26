@@ -11,7 +11,7 @@
     "tsconfig.config.json"
   ],
   "scripts": {
-    "release": "npx semantic-release"
+    "release": "npx --no-install semantic-release"
   },
   "repository": {
     "type": "git",
