@@ -12,6 +12,9 @@ importers:
 
   packages/tsconfig-app:
     devDependencies:
+      '@learn-semantic-release/release-config':
+        specifier: workspace:*
+        version: link:../release-config
       '@semantic-release/changelog':
         specifier: 6.0.3
         version: 6.0.3(semantic-release@24.2.0(typescript@5.6.3))
@@ -33,6 +36,9 @@ importers:
 
   packages/tsconfig-config:
     devDependencies:
+      '@learn-semantic-release/release-config':
+        specifier: workspace:*
+        version: link:../release-config
       '@semantic-release/changelog':
         specifier: 6.0.3
         version: 6.0.3(semantic-release@24.2.0(typescript@5.6.3))
