@@ -1,3 +1,13 @@
+## [@learn-semantic-release/tsconfig-config-v1.2.0](https://github.com/wakamsha/learn-semantic-release/compare/@learn-semantic-release/tsconfig-config-v1.1.1...@learn-semantic-release/tsconfig-config-v1.2.0) (2024-10-28)
+
+### Features
+
+* **tsconfig.config:** Update tsconfig 1.2 ([#16](https://github.com/wakamsha/learn-semantic-release/issues/16)) ([fa45d00](https://github.com/wakamsha/learn-semantic-release/commit/fa45d003261b7b7398bfe000fbcdc383030da104))
+
+### Reverts
+
+* Revert "feat(tsconfig.config): Update tsconfig 1.2 ([#16](https://github.com/wakamsha/learn-semantic-release/issues/16))" ([#17](https://github.com/wakamsha/learn-semantic-release/issues/17)) ([b1a8a58](https://github.com/wakamsha/learn-semantic-release/commit/b1a8a582b5a8fe2ba197dc28f1391e0a13bc006b))
+
 ## [@learn-semantic-release/tsconfig-config-v1.1.1](https://github.com/wakamsha/learn-semantic-release/compare/@learn-semantic-release/tsconfig-config-v1.1.0...@learn-semantic-release/tsconfig-config-v1.1.1) (2024-10-26)
 
 ### Bug Fixes
