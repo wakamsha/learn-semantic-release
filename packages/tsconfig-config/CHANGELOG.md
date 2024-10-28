@@ -1,3 +1,9 @@
+## [@learn-semantic-release/tsconfig-config-v1.3.0](https://github.com/wakamsha/learn-semantic-release/compare/@learn-semantic-release/tsconfig-config-v1.2.0...@learn-semantic-release/tsconfig-config-v1.3.0) (2024-10-28)
+
+### Features
+
+* **tsconfig.config:** Update tsconfig 1.3 ([#18](https://github.com/wakamsha/learn-semantic-release/issues/18)) ([0da97da](https://github.com/wakamsha/learn-semantic-release/commit/0da97da58aa6ba5ef753b1043241b0dd4b182e5e))
+
 ## [@learn-semantic-release/tsconfig-config-v1.2.0](https://github.com/wakamsha/learn-semantic-release/compare/@learn-semantic-release/tsconfig-config-v1.1.1...@learn-semantic-release/tsconfig-config-v1.2.0) (2024-10-28)
 
 ### Features
