@@ -18,6 +18,11 @@ export default {
       '@semantic-release/release-notes-generator',
       {
         preset: 'conventionalcommits',
+        presetConfig: {
+          types: [
+            { type: 'docs' }
+          ]
+        }
       },
     ],
     '@semantic-release/changelog',
