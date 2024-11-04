@@ -1,3 +1,9 @@
+## [@learn-semantic-release/tsconfig-app-v2.2.1](https://github.com/wakamsha/learn-semantic-release/compare/@learn-semantic-release/tsconfig-app-v2.2.0...@learn-semantic-release/tsconfig-app-v2.2.1) (2024-11-04)
+
+### Documentation
+
+* **README:** Update README - tsconfig-app ([#20](https://github.com/wakamsha/learn-semantic-release/issues/20)) ([e1eff19](https://github.com/wakamsha/learn-semantic-release/commit/e1eff1961c5b04df1221c21a393b3bad15d4b664))
+
 ## [@learn-semantic-release/tsconfig-app-v2.2.0](https://github.com/wakamsha/learn-semantic-release/compare/@learn-semantic-release/tsconfig-app-v2.1.0...@learn-semantic-release/tsconfig-app-v2.2.0) (2024-10-26)
 
 ### Features
