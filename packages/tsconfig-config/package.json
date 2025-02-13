@@ -10,9 +10,7 @@
   "files": [
     "tsconfig.config.json"
   ],
-  "scripts": {
-    "release": "semantic-release"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wakamsha/learn-semantic-release.git",
